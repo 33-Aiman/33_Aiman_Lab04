@@ -8,4 +8,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/GamePlay_Level1.unity
     guid: 45607dc5a83ddf14aa530727aa69346a
+  - enabled: 1
+    path: Assets/Scenes/GameWin.unity
+    guid: 1c4f4865b16fdfa4693548bee2f065a0
+  - enabled: 1
+    path: Assets/Scenes/GameLose.unity
+    guid: 43092ff3d163dfa459eeb71a746901a6
   m_configObjects: {}
